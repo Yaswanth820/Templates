@@ -1,6 +1,13 @@
 # Templates
 -web design templates-
 
+Template:
+ - [Home](https://www.figma.com/file/nZdV7bRf5YVNGl2RxQQAue/Home-temp)
+ - [Logo](https://www.figma.com/file/nZdV7bRf5YVNGl2RxQQAue/Home-temp)
+ - [Features]()
+ - [About]()
+ - [Contact Us]()
+
 [Template1](https://www.figma.com/file/LjJy0kR49zsv31YJO5EDxN/template)
 
 [Temp2](https://www.figma.com/file/EWuE0C9p0rLTJX59t3nWm5/polygon)
